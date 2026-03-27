@@ -1,3 +1,6 @@
+![whois 1](https://github.com/user-attachments/assets/d18b0df3-964c-48a8-b36b-974d808f3972)
+![whois 2](https://github.com/user-attachments/assets/bf89f0b2-6c15-42fe-9e02-47bc8f0a97d3)
+![tls wireshark](https://github.com/user-attachments/assets/3cf973c3-ca94-4084-9724-95f0d24885c6)
 #  SOC Analyst Portfolio
 
 ## 👤 About Me
